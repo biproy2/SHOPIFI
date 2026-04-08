@@ -1,7 +1,0 @@
-bin/
-obj/
-.vs/
-*.user
-logs/
-appsettings.Production.json
-appsettings.Secrets.json
